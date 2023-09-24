@@ -1,0 +1,3 @@
+browser-sync start --server --files "*.*" --index "HTMLCSS.html"
+
+cd C:\Users\aniq2\OneDrive\Desktop
